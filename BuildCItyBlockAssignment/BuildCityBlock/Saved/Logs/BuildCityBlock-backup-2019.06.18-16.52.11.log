@@ -1,0 +1,1389 @@
+﻿Log file open, 06/18/19 03:20:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BuildCityBlock
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.340914
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-6063286
+LogInit: Engine Version: 4.22.1-6063286+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Apr 24 2019 04:36:48
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.06.18-09.20.43:074][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.06.18-09.20.43:074][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.06.18-09.20.43:074][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.18-09.20.43:074][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.06.18-09.20.43:074][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.18-09.20.43:074][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.18-09.20.43:074][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.06.18-09.20.43:074][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.06.18-09.20.43:074][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.06.18-09.20.43:074][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.06.18-09.20.43:074][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.06.18-09.20.43:074][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.06.18-09.20.43:074][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.06.18-09.20.43:074][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.06.18-09.20.43:074][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.06.18-09.20.43:074][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.06.18-09.20.43:074][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.06.18-09.20.43:074][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.06.18-09.20.43:074][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.06.18-09.20.43:074][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.18-09.20.43:074][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.06.18-09.20.43:074][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.06.18-09.20.43:074][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.06.18-09.20.43:074][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.06.18-09.20.43:074][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.06.18-09.20.43:074][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.06.18-09.20.43:074][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.06.18-09.20.43:074][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.06.18-09.20.43:074][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.06.18-09.20.43:074][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.06.18-09.20.43:074][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.06.18-09.20.43:074][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.06.18-09.20.43:074][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.06.18-09.20.43:074][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.18-09.20.43:074][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.18-09.20.43:083][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.18-09.20.43:084][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.18-09.20.43:084][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.18-09.20.43:084][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.18-09.20.43:084][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.18-09.20.43:084][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.18-09.20.43:084][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.18-09.20.43:084][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.18-09.20.43:084][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.18-09.20.43:084][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.18-09.20.43:084][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.18-09.20.43:084][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.18-09.20.43:084][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.18-09.20.43:084][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.18-09.20.43:084][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.18-09.20.43:084][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.18-09.20.43:084][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.18-09.20.43:084][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.18-09.20.43:084][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.18-09.20.43:084][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.18-09.20.43:084][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.18-09.20.43:084][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.18-09.20.43:084][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.18-09.20.43:084][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.18-09.20.43:084][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.18-09.20.43:084][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.18-09.20.43:084][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.18-09.20.43:084][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.18-09.20.43:084][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.18-09.20.43:084][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.18-09.20.43:084][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.18-09.20.43:084][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.18-09.20.43:084][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.18-09.20.43:084][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.18-09.20.43:084][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.18-09.20.43:084][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.18-09.20.43:084][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.18-09.20.43:084][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.18-09.20.43:084][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.18-09.20.43:084][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.18-09.20.43:085][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.18-09.20.43:086][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.18-09.20.43:086][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.18-09.20.43:106][  0]LogHAL: Display: Platform has ~ 16 GB [17049358336 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.18-09.20.43:106][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.06.18-09.20.43:106][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.18-09.20.43:106][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.18-09.20.43:106][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.18-09.20.43:106][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.18-09.20.43:106][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.18-09.20.43:106][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.18-09.20.43:106][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.18-09.20.43:106][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.18-09.20.43:106][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.18-09.20.43:106][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.18-09.20.43:106][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.18-09.20.43:106][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.18-09.20.43:106][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.18-09.20.43:106][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.18-09.20.43:106][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.18-09.20.43:106][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.18-09.20.43:106][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.18-09.20.43:106][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.18-09.20.43:106][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.18-09.20.43:106][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.18-09.20.43:106][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.18-09.20.43:106][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.18-09.20.43:106][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.18-09.20.43:106][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.18-09.20.43:106][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.18-09.20.43:106][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.18-09.20.43:106][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.18-09.20.43:106][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.18-09.20.43:106][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.18-09.20.43:107][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.18-09.20.43:108][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.18-09.20.43:108][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.18-09.20.43:108][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.18-09.20.43:108][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.18-09.20.43:108][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.18-09.20.43:108][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.18-09.20.43:108][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.18-09.20.43:108][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.18-09.20.43:108][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.18-09.20.43:108][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.18-09.20.43:108][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.06.18-09.20.43:108][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.06.18-09.20.43:108][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.06.18-09.20.43:108][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.18-09.20.43:108][  0]LogInit: Computer: DESKTOP-Q9BCIRE
+[2019.06.18-09.20.43:109][  0]LogInit: User: Whitt
+[2019.06.18-09.20.43:109][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.06.18-09.20.43:109][  0]LogInit: High frequency timer resolution =2.742191 MHz
+[2019.06.18-09.20.43:109][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.06.18-09.20.43:109][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.18-09.20.43:109][  0]LogMemory: Process Physical Memory: 95.87 MB used, 95.87 MB peak
+[2019.06.18-09.20.43:109][  0]LogMemory: Process Virtual Memory: 90.54 MB used, 90.54 MB peak
+[2019.06.18-09.20.43:109][  0]LogMemory: Physical Memory: 9552.45 MB used,  6707.08 MB free, 16259.54 MB total
+[2019.06.18-09.20.43:109][  0]LogMemory: Virtual Memory: 4660.68 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.06.18-09.20.43:171][  0]LogInit: Using OS detected language (en-US).
+[2019.06.18-09.20.43:171][  0]LogInit: Using OS detected locale (en-US).
+[2019.06.18-09.20.43:173][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.06.18-09.20.43:457][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.18-09.20.43:524][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.18-09.20.43:524][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.18-09.20.43:878][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.18-09.20.43:878][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.18-09.20.44:010][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.06.18-09.20.44:010][  0]LogD3D11RHI:       6052/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.06.18-09.20.44:033][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.06.18-09.20.44:033][  0]LogD3D11RHI:       128/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.06.18-09.20.44:036][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.18-09.20.44:036][  0]LogD3D11RHI:       0/0/8129 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.18-09.20.44:036][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.18-09.20.44:051][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.18-09.20.44:051][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.18-09.20.44:051][  0]LogWindows: EnumDisplayDevices:
+[2019.06.18-09.20.44:052][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2019.06.18-09.20.44:052][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.06.18-09.20.44:052][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.06.18-09.20.44:053][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2019.06.18-09.20.44:053][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.06.18-09.20.44:053][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.06.18-09.20.44:054][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.06.18-09.20.44:054][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.06.18-09.20.44:054][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.06.18-09.20.44:054][  0]LogD3D11RHI:   Driver Version: 417.35 (internal:25.21.14.1735, unified:417.35)
+[2019.06.18-09.20.44:054][  0]LogD3D11RHI:      Driver Date: 12-11-2018
+[2019.06.18-09.20.44:054][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.06.18-09.20.44:129][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.18-09.20.44:150][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.18-09.20.44:150][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.18-09.20.44:150][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.18-09.20.44:165][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.06.18-09.20.44:731][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.06.18-09.20.44:754][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.06.18-09.20.44:775][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.06.18-09.20.44:798][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.06.18-09.20.44:818][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.06.18-09.20.44:838][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.06.18-09.20.44:858][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.06.18-09.20.44:879][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.06.18-09.20.44:890][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.06.18-09.20.45:012][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.06.18-09.20.45:012][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.06.18-09.20.45:012][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.06.18-09.20.45:012][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.06.18-09.20.45:012][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.06.18-09.20.45:012][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.06.18-09.20.45:012][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.06.18-09.20.45:012][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.06.18-09.20.45:012][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.06.18-09.20.45:012][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.06.18-09.20.45:012][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.06.18-09.20.45:012][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.06.18-09.20.45:012][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.06.18-09.20.45:012][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.06.18-09.20.45:012][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.06.18-09.20.45:012][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.06.18-09.20.45:012][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.06.18-09.20.45:012][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.06.18-09.20.45:016][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.06.18-09.20.45:085][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.06.18-09.20.45:085][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.06.18-09.20.45:117][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.06.18-09.20.45:117][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.06.18-09.20.45:134][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.06.18-09.20.45:150][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.06.18-09.20.45:169][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.06.18-09.20.45:190][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.06.18-09.20.45:262][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.06.18-09.20.45:262][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.06.18-09.20.45:262][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.18-09.20.45:276][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.06.18-09.20.45:355][  0]LogShaderCompilers: Guid format shader working directory is -55 characters bigger than the processId version (../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Intermediate/Shaders/WorkingDirectory/16092/).
+[2019.06.18-09.20.45:355][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Whitt/AppData/Local/Temp/UnrealShaderWorkingDir/B4046CCD4B7EE4BE2CD2F880E5A6462B/'.
+[2019.06.18-09.20.45:358][  0]LogXGEController: Cleaning working directory: C:/Users/Whitt/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.06.18-09.20.45:358][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.18-09.20.45:358][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.18-09.20.45:358][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.18-09.20.46:191][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.18-09.20.46:323][  0]LogDerivedDataCache: Loaded boot cache 0.13s 71MB C:/Users/Whitt/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.06.18-09.20.46:324][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Whitt/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.06.18-09.20.46:324][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.18-09.20.46:324][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.18-09.20.46:324][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.18-09.20.46:324][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.18-09.20.46:344][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.18-09.20.46:344][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.18-09.20.46:344][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.06.18-09.20.46:357][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Whitt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.18-09.20.46:357][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.18-09.20.46:357][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.18-09.20.46:387][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.18-09.20.46:388][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.18-09.20.46:388][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.18-09.20.46:499][  0]LogAssetRegistry: FAssetRegistry took 0.0392 seconds to start up
+[2019.06.18-09.20.46:991][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.18-09.20.47:167][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.18-09.20.47:167][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.06.18-09.20.47:167][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.18-09.20.47:167][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.06.18-09.20.47:167][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.06.18-09.20.47:189][  0]LogNetVersion: BuildCityBlock 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2967977464)
+[2019.06.18-09.20.47:826][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.059383 seconds
+[2019.06.18-09.20.47:834][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.06.18-09.20.47:834][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.06.18-09.20.47:834][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.18-09.20.48:994][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.18-09.20.49:009][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.18-09.20.49:130][  0]SourceControl: Source control is disabled
+[2019.06.18-09.20.49:130][  0]SourceControl: Source control is disabled
+[2019.06.18-09.20.49:132][  0]SourceControl: Source control is disabled
+[2019.06.18-09.20.49:133][  0]SourceControl: Source control is disabled
+[2019.06.18-09.20.49:235][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.18-09.20.49:396][  0]LogOcInput: OculusInput pre-init called
+[2019.06.18-09.20.50:266][  0]LogEngine: Initializing Engine...
+[2019.06.18-09.20.50:267][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.18-09.20.50:268][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.06.18-09.20.50:625][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.18-09.20.50:655][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.18-09.20.50:758][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.18-09.20.50:789][  0]LogInit: FAudioDevice initialized.
+[2019.06.18-09.20.50:789][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.18-09.20.50:887][  0]LogDerivedDataCache: Saved boot cache 0.10s 71MB C:/Users/Whitt/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.06.18-09.20.50:902][  0]LogInit: Texture streaming: Enabled
+[2019.06.18-09.20.50:929][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.18-09.20.50:965][  0]LogInit: Transaction tracking system initialized
+[2019.06.18-09.20.51:008][  0]BlueprintLog: New page: Editor Load
+[2019.06.18-09.20.51:153][  0]LocalizationService: Localization service is disabled
+[2019.06.18-09.20.51:632][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/' took 0.01s
+[2019.06.18-09.20.51:633][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.18-09.20.51:633][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.18-09.20.51:927][  0]SourceControl: Source control is disabled
+[2019.06.18-09.20.51:927][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.18-09.20.51:927][  0]LightingResults: New page: Lighting Build
+[2019.06.18-09.20.51:931][  0]MapCheck: New page: Map Check
+[2019.06.18-09.20.51:931][  0]LightingResults: New page: Lighting Build
+[2019.06.18-09.20.51:962][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.06.18-09.20.52:086][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.06.18-09.20.52:094][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.18-09.20.52:130][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2019.06.18-09.20.52:130][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.18-09.20.52:130][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.257ms to complete.
+[2019.06.18-09.20.52:130][  0]LogFileHelpers: Loading map 'Template_Default' took 0.204
+[2019.06.18-09.20.52:271][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-09.20.52:282][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-09.20.52:296][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-09.20.52:306][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.18-09.20.52:318][  0]LogCollectionManager: Loaded 0 collections in 0.004864 seconds
+[2019.06.18-09.20.52:337][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/Collections/' took 0.01s
+[2019.06.18-09.20.52:337][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Developers/Whitt/Collections/' took 0.00s
+[2019.06.18-09.20.52:337][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Collections/' took 0.00s
+[2019.06.18-09.20.52:337][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.06.18-09.20.52:350][  0]LogContentBrowser: Native class hierarchy populated in 0.0126 seconds. Added 2732 classes and 659 folders.
+[2019.06.18-09.20.52:362][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.06.18-09.20.52:364][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-09.20.52:364][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-09.20.52:365][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-09.20.52:365][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-09.20.52:366][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-09.20.52:367][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-09.20.52:367][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-09.20.52:368][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-09.20.52:368][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-09.20.52:369][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-09.20.52:369][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-09.20.52:370][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-09.20.52:370][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-09.20.52:371][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-09.20.52:371][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-09.20.52:372][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-09.20.52:372][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-09.20.52:373][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-09.20.52:374][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-09.20.52:374][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-09.20.52:375][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-09.20.52:376][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-09.20.52:376][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-09.20.52:377][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-09.20.52:377][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-09.20.52:378][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.18-09.20.52:432][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.06.18-09.20.52:440][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.06.18-09.20.52:463][  0]LogSlate: Took 0.000272 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.18-09.20.52:466][  0]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.18-09.20.52:475][  0]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.18-09.20.52:570][  0]LogRenderer: Reallocating scene render targets to support 1304x664 Format 10 NumSamples 1 (Frame:1).
+[2019.06.18-09.20.52:851][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.06.18-09.20.52:851][  0]LogLoad: (Engine Initialization) Total time: 12.52 seconds
+[2019.06.18-09.20.52:851][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.18-09.20.52:870][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.18-09.20.52:913][  0]LogAssetRegistry: Asset discovery search completed in 6.4379 seconds
+[2019.06.18-09.20.52:916][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.06.18-09.20.52:916][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000113 seconds (updated 0 objects)
+[2019.06.18-09.20.52:918][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.18-09.20.52:948][  0]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.18-09.20.57:725][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-09.21.12:007][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.06.18-09.21.16:002][101]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.18-09.21.16:009][101]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/TreeBranches.TreeBranches
+	Asset Name: /Game/TreeTrunk.TreeTrunk
+[2019.06.18-09.21.16:016][101]LogSlate: Took 0.000294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.18-09.21.16:831][101]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.06.18-09.21.16:863][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.06.18-09.21.16:895][101]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.06.18-09.21.16:928][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.06.18-09.21.17:926][151]LogLinker: Warning: Can't find file '/Game/TreeBranches'
+[2019.06.18-09.21.17:926][151]LogLinker: Warning: Can't find file for asset '/Game/TreeBranches' while loading NULL.
+[2019.06.18-09.21.17:926][151]LogLinker: Warning: Can't find file '/Game/TreeTrunk'
+[2019.06.18-09.21.17:926][151]LogLinker: Warning: Can't find file for asset '/Game/TreeTrunk' while loading NULL.
+[2019.06.18-09.21.17:931][151]LogLinker: Warning: Can't find file '/Game/TreeBranches'
+[2019.06.18-09.21.17:931][151]LogLinker: Warning: Can't find file for asset '/Game/TreeBranches' while loading NULL.
+[2019.06.18-09.21.17:931][151]LogLinker: Warning: Can't find file '/Game/TreeTrunk'
+[2019.06.18-09.21.17:931][151]LogLinker: Warning: Can't find file for asset '/Game/TreeTrunk' while loading NULL.
+[2019.06.18-09.21.17:932][151]LogLinker: Warning: Can't find file '/Game/TreeBranches'
+[2019.06.18-09.21.17:932][151]LogLinker: Warning: Can't find file for asset '/Game/TreeBranches' while loading NULL.
+[2019.06.18-09.21.17:932][151]LogLinker: Warning: Can't find file '/Game/TreeTrunk'
+[2019.06.18-09.21.17:932][151]LogLinker: Warning: Can't find file for asset '/Game/TreeTrunk' while loading NULL.
+[2019.06.18-09.21.17:933][151]LogLinker: Warning: Can't find file '/Game/TreeBranches'
+[2019.06.18-09.21.17:933][151]LogLinker: Warning: Can't find file for asset '/Game/TreeBranches' while loading NULL.
+[2019.06.18-09.21.17:933][151]LogLinker: Warning: Can't find file '/Game/TreeTrunk'
+[2019.06.18-09.21.17:933][151]LogLinker: Warning: Can't find file for asset '/Game/TreeTrunk' while loading NULL.
+[2019.06.18-09.21.18:229][151]LogLinker: Warning: Can't find file '/Game/TreeBranches'
+[2019.06.18-09.21.18:229][151]LoadErrors: Failed to load /Game/TreeBranches.TreeBranches Referenced by TreeBranches2_10
+[2019.06.18-09.21.18:230][151]LogLinker: Warning: Can't find file for asset '/Game/TreeBranches' while loading NULL.
+[2019.06.18-09.21.18:230][151]LogLinker: Warning: Can't find file '/Game/TreeBranches'
+[2019.06.18-09.21.18:230][151]LoadErrors: Failed to load /Game/TreeBranches.TreeBranches Referenced by TreeBranches3
+[2019.06.18-09.21.18:230][151]LogLinker: Warning: Can't find file for asset '/Game/TreeBranches' while loading NULL.
+[2019.06.18-09.21.18:230][151]LogLinker: Warning: Can't find file '/Game/TreeBranches'
+[2019.06.18-09.21.18:230][151]LoadErrors: Failed to load /Game/TreeBranches.TreeBranches Referenced by TreeBranches4
+[2019.06.18-09.21.18:230][151]LogLinker: Warning: Can't find file for asset '/Game/TreeBranches' while loading NULL.
+[2019.06.18-09.21.18:231][151]LogLinker: Warning: Can't find file '/Game/TreeBranches'
+[2019.06.18-09.21.18:231][151]LoadErrors: Failed to load /Game/TreeBranches.TreeBranches Referenced by TreeBranches5
+[2019.06.18-09.21.18:231][151]LogLinker: Warning: Can't find file for asset '/Game/TreeBranches' while loading NULL.
+[2019.06.18-09.21.18:231][151]LogLinker: Warning: Can't find file '/Game/TreeBranches'
+[2019.06.18-09.21.18:231][151]LoadErrors: Failed to load /Game/TreeBranches.TreeBranches Referenced by TreeBranches6
+[2019.06.18-09.21.18:231][151]LogLinker: Warning: Can't find file for asset '/Game/TreeBranches' while loading NULL.
+[2019.06.18-09.21.18:231][151]LogLinker: Warning: Can't find file '/Game/TreeBranches'
+[2019.06.18-09.21.18:231][151]LoadErrors: Failed to load /Game/TreeBranches.TreeBranches Referenced by TreeBranches7
+[2019.06.18-09.21.18:231][151]LogLinker: Warning: Can't find file for asset '/Game/TreeBranches' while loading NULL.
+[2019.06.18-09.21.18:232][151]LogLinker: Warning: Can't find file '/Game/TreeBranches'
+[2019.06.18-09.21.18:232][151]LoadErrors: Failed to load /Game/TreeBranches.TreeBranches Referenced by TreeBranches_3
+[2019.06.18-09.21.18:232][151]LogLinker: Warning: Can't find file for asset '/Game/TreeBranches' while loading NULL.
+[2019.06.18-09.21.18:232][151]LogLinker: Warning: Can't find file '/Game/TreeTrunk'
+[2019.06.18-09.21.18:232][151]LoadErrors: Failed to load /Game/TreeTrunk.TreeTrunk Referenced by TreeTrunk2_11
+[2019.06.18-09.21.18:232][151]LogLinker: Warning: Can't find file for asset '/Game/TreeTrunk' while loading NULL.
+[2019.06.18-09.21.18:232][151]LogLinker: Warning: Can't find file '/Game/TreeTrunk'
+[2019.06.18-09.21.18:233][151]LoadErrors: Failed to load /Game/TreeTrunk.TreeTrunk Referenced by TreeTrunk3
+[2019.06.18-09.21.18:233][151]LogLinker: Warning: Can't find file for asset '/Game/TreeTrunk' while loading NULL.
+[2019.06.18-09.21.18:233][151]LogLinker: Warning: Can't find file '/Game/TreeTrunk'
+[2019.06.18-09.21.18:233][151]LoadErrors: Failed to load /Game/TreeTrunk.TreeTrunk Referenced by TreeTrunk4
+[2019.06.18-09.21.18:233][151]LogLinker: Warning: Can't find file for asset '/Game/TreeTrunk' while loading NULL.
+[2019.06.18-09.21.18:234][151]LogLinker: Warning: Can't find file '/Game/TreeTrunk'
+[2019.06.18-09.21.18:234][151]LoadErrors: Failed to load /Game/TreeTrunk.TreeTrunk Referenced by TreeTrunk5
+[2019.06.18-09.21.18:235][151]LogLinker: Warning: Can't find file for asset '/Game/TreeTrunk' while loading NULL.
+[2019.06.18-09.21.18:235][151]LogLinker: Warning: Can't find file '/Game/TreeTrunk'
+[2019.06.18-09.21.18:235][151]LoadErrors: Failed to load /Game/TreeTrunk.TreeTrunk Referenced by TreeTrunk6
+[2019.06.18-09.21.18:235][151]LogLinker: Warning: Can't find file for asset '/Game/TreeTrunk' while loading NULL.
+[2019.06.18-09.21.18:235][151]LogLinker: Warning: Can't find file '/Game/TreeTrunk'
+[2019.06.18-09.21.18:235][151]LoadErrors: Failed to load /Game/TreeTrunk.TreeTrunk Referenced by TreeTrunk7
+[2019.06.18-09.21.18:236][151]LogLinker: Warning: Can't find file for asset '/Game/TreeTrunk' while loading NULL.
+[2019.06.18-09.21.18:236][151]LogLinker: Warning: Can't find file '/Game/TreeTrunk'
+[2019.06.18-09.21.18:236][151]LoadErrors: Failed to load /Game/TreeTrunk.TreeTrunk Referenced by TreeTrunk_5
+[2019.06.18-09.21.18:236][151]LogLinker: Warning: Can't find file for asset '/Game/TreeTrunk' while loading NULL.
+[2019.06.18-09.21.18:358][151]LogAIModule: Creating AISystem for world WhiteBlockStreet
+[2019.06.18-09.21.18:516][151]LogAssetEditorManager: Opening Asset editor for World /Game/WhiteBlockStreet.WhiteBlockStreet
+[2019.06.18-09.21.18:552][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.06.18-09.21.18:554][151]Cmd: MAP LOAD FILE="../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/WhiteBlockStreet.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.18-09.21.18:554][151]LightingResults: New page: Lighting Build
+[2019.06.18-09.21.18:555][151]LoadErrors: New page: Loading map: WhiteBlockStreet.umap
+[2019.06.18-09.21.18:555][151]MapCheck: New page: Map Check
+[2019.06.18-09.21.18:555][151]LightingResults: New page: Lighting Build
+[2019.06.18-09.21.18:588][151]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2019.06.18-09.21.18:625][151]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.18-09.21.18:786][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.06.18-09.21.18:826][151]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.18-09.21.18:827][151]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.352ms to complete.
+[2019.06.18-09.21.18:827][151]LogFileHelpers: Loading map 'WhiteBlockStreet' took 0.273
+[2019.06.18-09.21.34:593][ 74]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MailBoxTop3)
+[2019.06.18-09.21.42:845][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-09.22.09:729][ 94]LogLinker: Warning: Can't find file '/Game/WBMaterials/MM_WBlock_RW'
+[2019.06.18-09.22.09:729][ 94]LogLinker: Warning: Can't find file for asset '/Game/WBMaterials/MM_WBlock_RW' while loading NULL.
+[2019.06.18-09.22.09:730][ 94]LogLinker: Warning: Can't find file '/Game/WBMaterials/MM_WBlock_RW'
+[2019.06.18-09.22.09:730][ 94]LogLinker: Warning: Can't find file for asset '/Game/WBMaterials/MM_WBlock_RW' while loading NULL.
+[2019.06.18-09.22.09:730][ 94]LogLinker: Warning: Can't find file '/Game/WBMaterials/WoodGrain_02color'
+[2019.06.18-09.22.09:730][ 94]LogLinker: Warning: Can't find file for asset '/Game/WBMaterials/WoodGrain_02color' while loading NULL.
+[2019.06.18-09.22.09:730][ 94]LogLinker: Warning: Can't find file '/Game/WBMaterials/WoodGrain_02color'
+[2019.06.18-09.22.09:730][ 94]LogLinker: Warning: Can't find file for asset '/Game/WBMaterials/WoodGrain_02color' while loading NULL.
+[2019.06.18-09.22.09:731][ 94]LogLinker: Warning: Can't find file '/Game/WBMaterials/MM_WBlock_RW'
+[2019.06.18-09.22.09:731][ 94]LoadErrors: Failed to load /Game/WBMaterials/MM_WBlock_RW.MM_WBlock_RW Referenced by MI_WBlock_RW
+[2019.06.18-09.22.09:731][ 94]LogLinker: Warning: Can't find file for asset '/Game/WBMaterials/MM_WBlock_RW' while loading NULL.
+[2019.06.18-09.22.09:731][ 94]LogLinker: Warning: Can't find file '/Game/WBMaterials/WoodGrain_02color'
+[2019.06.18-09.22.09:731][ 94]LoadErrors: Failed to load /Game/WBMaterials/WoodGrain_02color.WoodGrain_02color Referenced by MI_WBlock_RW
+[2019.06.18-09.22.09:732][ 94]LogLinker: Warning: Can't find file for asset '/Game/WBMaterials/WoodGrain_02color' while loading NULL.
+[2019.06.18-09.22.09:734][ 94]LogLinker: Warning: Can't find file '/Game/WBMaterials/Graphics001'
+[2019.06.18-09.22.09:735][ 94]LogLinker: Warning: Can't find file for asset '/Game/WBMaterials/Graphics001' while loading NULL.
+[2019.06.18-09.22.09:735][ 94]LogLinker: Warning: Can't find file '/Game/WBMaterials/WoodGrain_01normal'
+[2019.06.18-09.22.09:735][ 94]LogLinker: Warning: Can't find file for asset '/Game/WBMaterials/WoodGrain_01normal' while loading NULL.
+[2019.06.18-09.22.09:735][ 94]LogLinker: Warning: Can't find file '/Game/WBMaterials/WoodGrain_02color'
+[2019.06.18-09.22.09:736][ 94]LogLinker: Warning: Can't find file for asset '/Game/WBMaterials/WoodGrain_02color' while loading NULL.
+[2019.06.18-09.22.09:736][ 94]LogLinker: Warning: Can't find file '/Game/WBMaterials/Graphics001'
+[2019.06.18-09.22.09:736][ 94]LogLinker: Warning: Can't find file for asset '/Game/WBMaterials/Graphics001' while loading NULL.
+[2019.06.18-09.22.09:736][ 94]LogLinker: Warning: Can't find file '/Game/WBMaterials/WoodGrain_01normal'
+[2019.06.18-09.22.09:736][ 94]LogLinker: Warning: Can't find file for asset '/Game/WBMaterials/WoodGrain_01normal' while loading NULL.
+[2019.06.18-09.22.09:736][ 94]LogLinker: Warning: Can't find file '/Game/WBMaterials/WoodGrain_02color'
+[2019.06.18-09.22.09:737][ 94]LogLinker: Warning: Can't find file for asset '/Game/WBMaterials/WoodGrain_02color' while loading NULL.
+[2019.06.18-09.22.09:738][ 94]LogLinker: Warning: Can't find file '/Game/WBMaterials/WoodGrain_02color'
+[2019.06.18-09.22.09:738][ 94]LoadErrors: Failed to load /Game/WBMaterials/WoodGrain_02color.WoodGrain_02color Referenced by MaterialExpressionTextureSampleParameter2D_0
+[2019.06.18-09.22.09:738][ 94]LogLinker: Warning: Can't find file for asset '/Game/WBMaterials/WoodGrain_02color' while loading NULL.
+[2019.06.18-09.22.09:739][ 94]LogLinker: Warning: Can't find file '/Game/WBMaterials/WoodGrain_01normal'
+[2019.06.18-09.22.09:739][ 94]LoadErrors: Failed to load /Game/WBMaterials/WoodGrain_01normal.WoodGrain_01normal Referenced by MaterialExpressionTextureSampleParameter2D_1
+[2019.06.18-09.22.09:739][ 94]LogLinker: Warning: Can't find file for asset '/Game/WBMaterials/WoodGrain_01normal' while loading NULL.
+[2019.06.18-09.22.09:739][ 94]LogLinker: Warning: Can't find file '/Game/WBMaterials/Graphics001'
+[2019.06.18-09.22.09:739][ 94]LoadErrors: Failed to load /Game/WBMaterials/Graphics001.Graphics001 Referenced by MaterialExpressionTextureSampleParameter2D_2
+[2019.06.18-09.22.09:740][ 94]LogLinker: Warning: Can't find file for asset '/Game/WBMaterials/Graphics001' while loading NULL.
+[2019.06.18-09.22.09:743][ 94]LogMaterial: Display: Missing cached shader map for material MM_WBlock_RW, compiling. 
+[2019.06.18-09.22.09:744][ 94]LogMaterial: Warning: C:\Users\Whitt\Documents\GitHub\AssetPipeline\BuildCItyBlockAssignment\BuildCityBlock\Content\WB_Materials\WBMaterials\MM_WBlock_RW.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.18-09.22.09:744][ 94]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.06.18-09.22.11:145][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/woodA70F3A61419A2B8247F316B84A4492F6.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Materials/WBMaterials/wood.uasset'
+[2019.06.18-09.22.11:185][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/wood7E5D8F6C400AD5C9C8CAD39192B3A48B.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/WB_Materials/WBMaterials/wood.uasset'
+[2019.06.18-09.22.11:242][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/WB_WindowE707DB464D20D173B26E548EFFBC4559.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Materials/WBMaterials/WB_Window.uasset'
+[2019.06.18-09.22.11:284][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/WB_Window64D47FB04D054F7A57A1F0865B0B6580.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/WB_Materials/WBMaterials/WB_Window.uasset'
+[2019.06.18-09.22.11:354][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/WB_Tree026C4D934D72B90A497E80824DB2EE6A.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Materials/WBMaterials/WB_Tree.uasset'
+[2019.06.18-09.22.11:395][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/WB_Tree87D3C5A440AD6754761B2B88FC359A98.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/WB_Materials/WBMaterials/WB_Tree.uasset'
+[2019.06.18-09.22.11:450][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/WB_StreetB723AF2F470A996E4820318CD2701EA1.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Materials/WBMaterials/WB_Street.uasset'
+[2019.06.18-09.22.11:486][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/WB_Street85DC5938441207934CC95B9862455C7B.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/WB_Materials/WBMaterials/WB_Street.uasset'
+[2019.06.18-09.22.11:539][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/WB_Sidewalk352D9A924BC5E8AA62CEF9B06DE15E5A.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Materials/WBMaterials/WB_Sidewalk.uasset'
+[2019.06.18-09.22.11:582][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/WB_SidewalkD10FCE5B4F6C5DBF51B87BB1E3083C26.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/WB_Materials/WBMaterials/WB_Sidewalk.uasset'
+[2019.06.18-09.22.11:632][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/WB_RoofD8ABF99A4808081A5567B98B95958803.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Materials/WBMaterials/WB_Roof.uasset'
+[2019.06.18-09.22.11:665][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/WB_RoofAEA045354A9DCED89D15F5A33FF6CDB2.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/WB_Materials/WBMaterials/WB_Roof.uasset'
+[2019.06.18-09.22.11:715][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/WB_GrassA043B8304039EAD68AB1D286ECFA87DD.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Materials/WBMaterials/WB_Grass.uasset'
+[2019.06.18-09.22.11:750][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/WB_Grass7F504D6F4BA14D3EBE471EBE6F60A2AB.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/WB_Materials/WBMaterials/WB_Grass.uasset'
+[2019.06.18-09.22.11:812][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/WB_Door178B866B4CFF90AA67F548A288B0960E.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Materials/WBMaterials/WB_Door.uasset'
+[2019.06.18-09.22.11:848][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/WB_Door8D6A10CB4BE45FBC16482B82A2FD0C9C.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/WB_Materials/WBMaterials/WB_Door.uasset'
+[2019.06.18-09.22.11:911][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/WB_BuildingBlockF796B2E744CD2D60A3E4388F740A3669.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Materials/WBMaterials/WB_BuildingBlock.uasset'
+[2019.06.18-09.22.11:952][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/WB_BuildingBlock0C2B0E3E48D4E20124EA838B6997BCF1.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/WB_Materials/WBMaterials/WB_BuildingBlock.uasset'
+[2019.06.18-09.22.12:015][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/MM_TrunkF693FC52477D4F351F035FAC978946DB.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Materials/WBMaterials/MM_Trunk.uasset'
+[2019.06.18-09.22.12:050][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/MM_TrunkA8D205F640BDB8517FB413B5D223E586.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/WB_Materials/WBMaterials/MM_Trunk.uasset'
+[2019.06.18-09.22.12:107][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/MM_MailBoxTopD95F8E76485239786FD6BC898097F19F.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Materials/WBMaterials/MM_MailBoxTop.uasset'
+[2019.06.18-09.22.12:136][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/MM_MailBoxTop496D4FFB47EAFD8C7A6C36AEF5E213E0.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/WB_Materials/WBMaterials/MM_MailBoxTop.uasset'
+[2019.06.18-09.22.12:168][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/MailBoxFaceUVOut4E6D4605478253913EBEE3AFA850F51F.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Materials/WBMaterials/MailBoxFaceUVOut.uasset'
+[2019.06.18-09.22.12:225][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/MM_Branches1277596C4DBA24FD7C42969E5AAEEFD7.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Materials/WBMaterials/MM_Branches.uasset'
+[2019.06.18-09.22.12:261][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/MM_Branches0D832925478B353E278317877B3D7E0A.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/WB_Materials/WBMaterials/MM_Branches.uasset'
+[2019.06.18-09.22.12:432][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/WoodGrain_02color326FFBAA4EE26B823138469A6F392B1B.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Materials/WBMaterials/WoodGrain_02color.uasset'
+[2019.06.18-09.22.12:654][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/WoodGrain_01normal86ABBD7C4F9749E6812FA4BEE1187F3A.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Materials/WBMaterials/WoodGrain_01normal.uasset'
+[2019.06.18-09.22.12:686][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/BlankBlackCover1EC743AA4F3306188C4951838EA06E92.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Materials/WBMaterials/BlankBlackCover.uasset'
+[2019.06.18-09.22.12:747][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/initialShadingGroup684F6DE34C2354C4F1017DB9CB1B7F3D.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Materials/WBMaterials/initialShadingGroup.uasset'
+[2019.06.18-09.22.12:812][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/MailBoxTop240F58FA445E00567D91C5B55FB1F52C.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Materials/WBMaterials/MailBoxTop.uasset'
+[2019.06.18-09.22.12:848][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/MailBoxTopD499CDCB4B13AFF861C713BCE927C1D7.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/WB_Materials/WBMaterials/MailBoxTop.uasset'
+[2019.06.18-09.22.12:866][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/WB_BuildingBlock5A46EB114623ABC49C44A1A06ACE8DFC.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Materials/WB_BuildingBlock.uasset'
+[2019.06.18-09.22.12:881][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/WB_DoorD1799E8D410E081DF6960DA4E11F528E.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Materials/WB_Door.uasset'
+[2019.06.18-09.22.12:897][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/WB_Grass2BA5F954435D8F99E812BCA54CD462B3.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Materials/WB_Grass.uasset'
+[2019.06.18-09.22.12:912][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/WB_Roof99B1882742670FCF948B8E97B4BED79D.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Materials/WB_Roof.uasset'
+[2019.06.18-09.22.12:929][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/WB_Sidewalk77CD0D94445BC907416EAFA122F0503B.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Materials/WB_Sidewalk.uasset'
+[2019.06.18-09.22.12:946][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/WB_StreetA490AFBD4468D2715B225E93279BB2F3.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Materials/WB_Street.uasset'
+[2019.06.18-09.22.12:965][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/WB_Tree9E5845D94E9B3BF4557F819FC650898B.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Materials/WB_Tree.uasset'
+[2019.06.18-09.22.12:981][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/WB_WindowF509571A40220A2A4BDEDA8C2ED9F9C7.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Materials/WB_Window.uasset'
+[2019.06.18-09.22.12:991][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/wood" FILE="../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Materials/wood.uasset" SILENT=true
+[2019.06.18-09.22.13:001][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/wood7FB349A14AC5E2F145A9C6B1F016637E.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Materials/wood.uasset'
+[2019.06.18-09.22.13:034][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/Graphics001AAD86C0D4B02EBE93E60DDA7909062D8.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Materials/WBMaterials/Graphics001.uasset'
+[2019.06.18-09.22.13:092][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/MI_WBlock_RWA6F0189144D18B833C1FBB8D53C6CBE6.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Materials/WBMaterials/MI_WBlock_RW.uasset'
+[2019.06.18-09.22.13:152][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/MM_WBlock_RWABA07110415E6B014356F98C65912E02.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Materials/WBMaterials/MM_WBlock_RW.uasset'
+[2019.06.18-09.22.13:211][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/TreeBranches9A07B9D54B73B88352D51C9CA03C0191.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Materials/WBMaterials/TreeBranches.uasset'
+[2019.06.18-09.22.13:266][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/TreeTrunk31CE58E245D2C08900EE708099C3CE18.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Materials/WBMaterials/TreeTrunk.uasset'
+[2019.06.18-09.22.15:141][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.06.18-09.22.15:174][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.06.18-09.22.15:209][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.06.18-09.22.15:245][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.06.18-09.22.15:280][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.06.18-09.22.15:314][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.06.18-09.22.15:352][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.06.18-09.22.15:391][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.06.18-09.22.15:428][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.06.18-09.22.15:467][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.06.18-09.22.15:507][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.06.18-09.22.15:545][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.06.18-09.22.15:583][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.06.18-09.22.15:620][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.06.18-09.22.15:659][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.06.18-09.22.15:696][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.06.18-09.22.15:734][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.06.18-09.22.15:769][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.06.18-09.22.15:808][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.06.18-09.22.15:849][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.06.18-09.22.15:884][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.06.18-09.22.15:909][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_Tree" FILE="../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/SM_Tree.uasset" SILENT=true
+[2019.06.18-09.22.15:931][ 94]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/SM_Tree4A1573B944FA1455C9E66F92C88621C2.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/SM_Tree.uasset'
+[2019.06.18-09.22.29:216][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.06.18-09.22.33:217][811]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.18-09.22.48:893][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-09.23.09:411][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2019.06.18-09.23.15:329][851]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.18-09.23.15:334][851]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/Materials/WBMaterials/TreeTrunk.TreeTrunk
+	Asset Name: /Game/Materials/WBMaterials/TreeBranches.TreeBranches
+	Asset Name: /Game/Materials/WBMaterials/MailBoxTop.MailBoxTop
+[2019.06.18-09.23.16:209][851]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.06.18-09.23.16:247][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.06.18-09.23.16:284][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.06.18-09.23.16:324][851]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2019.06.18-09.23.16:362][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.06.18-09.23.28:464][182]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/TreeAssets/TreeBranches.obj)
+[2019.06.18-09.23.28:479][182]LogFbx: Loading FBX Scene from ../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/TreeAssets/TreeBranches.obj
+[2019.06.18-09.23.28:492][182]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.18-09.23.31:360][182]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.18-09.23.31:602][182]LogMaterial: Display: Missing cached shader map for material initialShadingGroup, compiling. 
+[2019.06.18-09.23.31:675][182]LogFbx: Display: Triangulating static mesh pCylinder1
+[2019.06.18-09.23.31:903][182]LogStaticMesh: Building static mesh TreeBranches...
+[2019.06.18-09.23.31:936][182]LogStaticMesh: Built static mesh [0.03s] /Game/Objects/TreeBranches.TreeBranches
+[2019.06.18-09.23.31:976][182]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/TreeAssets/TreeTrunk.obj)
+[2019.06.18-09.23.31:994][182]LogFbx: Loading FBX Scene from ../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/TreeAssets/TreeTrunk.obj
+[2019.06.18-09.23.32:003][182]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.18-09.23.32:010][182]LogFbx: Display: Triangulating static mesh pCylinder1
+[2019.06.18-09.23.32:042][182]LogStaticMesh: Building static mesh TreeTrunk...
+[2019.06.18-09.23.32:052][182]LogStaticMesh: Built static mesh [0.01s] /Game/Objects/TreeTrunk.TreeTrunk
+[2019.06.18-09.23.38:820][352]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/MailBoxTop.obj)
+[2019.06.18-09.23.38:836][352]LogFbx: Loading FBX Scene from ../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/MailBoxTop.obj
+[2019.06.18-09.23.38:844][352]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.18-09.23.40:182][352]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.18-09.23.40:217][352]LogFbx: Display: Triangulating static mesh pCube3
+[2019.06.18-09.23.40:248][352]LogStaticMesh: Building static mesh MailBoxTop...
+[2019.06.18-09.23.40:263][352]LogStaticMesh: Built static mesh [0.01s] /Game/Objects/MailBoxTop.MailBoxTop
+[2019.06.18-09.23.42:594][482]LogActorFactory: Actor Factory created MailBoxTop
+[2019.06.18-09.23.43:525][535]LogActorFactory: Actor Factory created MailBoxTop
+[2019.06.18-09.23.51:072][969]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-09.23.58:443][383]Cmd: TRANSACTION UNDO
+[2019.06.18-09.23.58:443][383]LogEditorTransaction: Undo Create Actors
+[2019.06.18-09.23.58:861][401]Cmd: TRANSACTION UNDO
+[2019.06.18-09.23.58:862][401]LogEditorTransaction: Undo Create Actors
+[2019.06.18-09.23.58:880][401]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/WhiteBlockStreet.WhiteBlockStreet:PersistentLevel.ModelComponent_428' invalid (11788 verts, 0 indices).
+[2019.06.18-09.23.58:880][401]LogPhysics: Warning: Attempt to build physics data for /Game/WhiteBlockStreet.WhiteBlockStreet:PersistentLevel.ModelComponent_428.BodySetup_0 when we are unable to.
+[2019.06.18-09.23.59:606][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-09.24.42:238][950]Cmd: DELETE
+[2019.06.18-09.24.42:238][950]Cmd: ACTOR DELETE
+[2019.06.18-09.24.42:282][950]LogEditorActor: Deleted Actor: Brush
+[2019.06.18-09.24.42:318][950]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.06.18-09.24.42:731][950]LogEditorActor: Deleted 1 Actors (0.492 secs)
+[2019.06.18-09.24.44:927][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MailBoxTop4)
+[2019.06.18-09.24.52:043][477]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere3)
+[2019.06.18-09.24.54:335][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-09.25.11:045][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-09.25.14:598][799]LogActorFactory: Actor Factory created TreeTrunk
+[2019.06.18-09.25.14:600][799]LogActorFactory: Actor Factory created TreeBranches
+[2019.06.18-09.25.16:184][890]LogActorFactory: Actor Factory created TreeTrunk
+[2019.06.18-09.25.16:219][890]LogActorFactory: Actor Factory created TreeBranches
+[2019.06.18-09.25.21:831][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-09.25.26:826][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-09.25.52:654][919]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TreeTrunk11)
+[2019.06.18-09.25.53:050][936]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TreeBranches11)
+[2019.06.18-09.25.56:756][144]Cmd: TRANSACTION UNDO
+[2019.06.18-09.25.56:756][144]LogEditorTransaction: Undo Move Actors
+[2019.06.18-09.25.57:403][145]Cmd: TRANSACTION UNDO
+[2019.06.18-09.25.57:403][145]LogEditorTransaction: Undo Clicking on Actors
+[2019.06.18-09.25.59:962][278]Cmd: TRANSACTION UNDO
+[2019.06.18-09.25.59:962][278]LogEditorTransaction: Undo Move Actors
+[2019.06.18-09.26.01:405][325]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TreeBranches11)
+[2019.06.18-09.26.44:106][748]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2019.06.18-09.26.44:119][748]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-09.26.44:178][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.06.18-09.26.46:606][748]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/WhiteBlockStreet824B215647D35E0A6AC97FA6A6C38F3B.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/WhiteBlockStreet.umap'
+[2019.06.18-09.26.46:681][748]LogFileHelpers: Saving map 'WhiteBlockStreet' took 2.553
+[2019.06.18-09.26.46:704][748]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/MailBoxTop6955207C44D45EBF036AE9A5786F1C9D.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/WB_Materials/WBMaterials/MailBoxTop.uasset'
+[2019.06.18-09.26.46:776][748]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/TreeBranchesCC09849849EA185583F7B0B272C70B61.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Objects/TreeBranches.uasset'
+[2019.06.18-09.26.46:835][748]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/initialShadingGroupF1A6F3464DF220E0E47C108AE912ED20.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Objects/initialShadingGroup.uasset'
+[2019.06.18-09.26.46:897][748]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/TreeTrunkFFE891EE4D124FFEAFF93E95C04A7601.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Objects/TreeTrunk.uasset'
+[2019.06.18-09.26.46:958][748]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/MailBoxTopFCB7DC9B4BA25C325EED53B31A0AE489.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Objects/MailBoxTop.uasset'
+[2019.06.18-09.26.51:268][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-09.28.16:722][424]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/MailBoxPost.obj)
+[2019.06.18-09.28.16:735][424]LogFbx: Loading FBX Scene from ../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/MailBoxPost.obj
+[2019.06.18-09.28.16:742][424]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.18-09.28.18:164][424]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.18-09.28.18:208][424]LogFbx: Display: Triangulating static mesh pCube1
+[2019.06.18-09.28.18:221][424]LogStaticMesh: Building static mesh MailBoxPost...
+[2019.06.18-09.28.18:223][424]LogStaticMesh: Built static mesh [0.00s] /Game/Objects/MailBoxPost.MailBoxPost
+[2019.06.18-09.28.18:235][424]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.06.18-09.28.30:304][891]LogSlate: Window 'Message Log' being destroyed
+[2019.06.18-09.28.30:310][891]LogSlate: Window 'Message Log' being destroyed
+[2019.06.18-09.28.31:489][959]LogActorFactory: Actor Factory created MailBoxPost
+[2019.06.18-09.28.34:189][120]LogActorFactory: Actor Factory created MailBoxPost
+[2019.06.18-09.28.36:237][241]LogActorFactory: Actor Factory created MailBoxPost
+[2019.06.18-09.28.42:448][603]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MailBoxTop4)
+[2019.06.18-09.28.43:476][662]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MailBoxTop4)
+[2019.06.18-09.28.52:017][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MailBoxPost)
+[2019.06.18-09.28.58:688][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-09.29.06:731][ 26]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.06.18-09.29.15:258][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MailBoxPost)
+[2019.06.18-09.29.17:687][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MailBoxTop4)
+[2019.06.18-09.29.20:027][809]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.06.18-09.29.22:670][959]LogEditorViewport: Clicking Background
+[2019.06.18-09.29.23:782][ 26]Cmd: TRANSACTION UNDO
+[2019.06.18-09.29.23:782][ 26]LogEditorTransaction: Undo Clicking Background
+[2019.06.18-09.29.24:234][ 49]Cmd: TRANSACTION UNDO
+[2019.06.18-09.29.24:234][ 49]LogEditorTransaction: Undo Apply Material to Surface
+[2019.06.18-09.29.24:859][ 76]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.06.18-09.29.35:867][717]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2019.06.18-09.29.35:875][717]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-09.29.35:916][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.06.18-09.29.37:700][717]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/WhiteBlockStreet3A18668F4C45CA2AC8472B9DD55951B8.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/WhiteBlockStreet.umap'
+[2019.06.18-09.29.37:746][717]LogFileHelpers: Saving map 'WhiteBlockStreet' took 1.864
+[2019.06.18-09.29.37:792][717]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/MailBoxPostFCD0A0D84F97CA4D77D806BEB874740E.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Objects/MailBoxPost.uasset'
+[2019.06.18-09.31.54:299][946]Cmd: TRANSACTION UNDO
+[2019.06.18-09.31.54:299][946]LogEditorTransaction: Undo Apply Material to Selected Surfaces
+[2019.06.18-09.31.56:378][ 62]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere3)
+[2019.06.18-09.39.36:168][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.06.18-09.39.37:742][950]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/WhiteBlockStreet_Auto1A0BBAE0D4AAB8AED1F23E696FE7E8C8B.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/Autosaves/Game/WhiteBlockStreet_Auto1.umap'
+[2019.06.18-09.39.37:749][950]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/WhiteBlockStreet' took 1.610
+[2019.06.18-09.39.37:749][950]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.610
+[2019.06.18-09.52.06:297][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-09.52.11:698][433]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BigHouseCorner.obj)
+[2019.06.18-09.52.11:724][433]LogFbx: Loading FBX Scene from ../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BigHouseCorner.obj
+[2019.06.18-09.52.11:726][433]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.18-09.52.13:135][433]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.18-09.52.13:173][433]LogFbx: Display: Triangulating static mesh pCube1
+[2019.06.18-09.52.13:185][433]LogStaticMesh: Building static mesh BigHouseCorner...
+[2019.06.18-09.52.13:187][433]LogStaticMesh: Built static mesh [0.00s] /Game/Objects/BigHouseCorner.BigHouseCorner
+[2019.06.18-09.52.13:188][433]LogStaticMesh: Warning: BigHouseCorner has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.06.18-09.52.13:188][433]LogStaticMesh: Warning: BigHouseCorner has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.06.18-09.52.13:203][433]FBXImport: Warning: BigHouseCorner has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.06.18-09.52.13:203][433]FBXImport: Warning: BigHouseCorner has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.06.18-09.52.26:362][209]LogSlate: Window 'Message Log' being destroyed
+[2019.06.18-09.52.26:367][209]LogSlate: Window 'Message Log' being destroyed
+[2019.06.18-09.52.27:843][289]LogActorFactory: Actor Factory created BigHouseCorner
+[2019.06.18-09.52.37:052][837]LogActorFactory: Actor Factory created BigHouseCorner
+[2019.06.18-09.52.37:644][871]LogActorFactory: Actor Factory created BigHouseCorner
+[2019.06.18-09.53.12:745][932]Cmd: DELETE
+[2019.06.18-09.53.12:745][932]Cmd: ACTOR DELETE
+[2019.06.18-09.53.12:782][932]LogEditorActor: Deleted Actor: Brush
+[2019.06.18-09.53.12:815][932]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.06.18-09.53.13:231][932]LogEditorActor: Deleted 1 Actors (0.486 secs)
+[2019.06.18-09.53.14:168][964]Cmd: DELETE
+[2019.06.18-09.53.14:168][964]Cmd: ACTOR DELETE
+[2019.06.18-09.53.14:209][964]LogEditorActor: Deleted Actor: Brush
+[2019.06.18-09.53.14:244][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.06.18-09.53.14:684][964]LogEditorActor: Deleted 1 Actors (0.515 secs)
+[2019.06.18-09.53.17:002][ 86]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigHouseCorner)
+[2019.06.18-09.53.52:449][174]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigHouseCorner)
+[2019.06.18-09.54.23:106][980]Cmd: TRANSACTION UNDO
+[2019.06.18-09.54.23:107][980]LogEditorTransaction: Undo Apply Material to Surface
+[2019.06.18-09.54.36:394][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigHouseCorner)
+[2019.06.18-09.54.37:494][821]Cmd: DELETE
+[2019.06.18-09.54.37:494][821]Cmd: ACTOR DELETE
+[2019.06.18-09.54.37:538][821]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.18-09.54.37:575][821]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2019.06.18-09.54.37:576][821]LogEditorActor: Deleted 1 Actors (0.081 secs)
+[2019.06.18-09.54.39:014][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-09.54.42:014][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2019.06.18-09.54.43:268][ 77]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.18-09.54.43:412][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.06.18-09.55.08:887][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.06.18-09.55.11:481][218]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/WhiteBlockStreet_Auto28DADEBF94052C8F993EE729F289FFF71.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/Autosaves/Game/WhiteBlockStreet_Auto2.umap'
+[2019.06.18-09.55.11:491][218]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/WhiteBlockStreet' took 2.641
+[2019.06.18-09.55.11:491][218]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.641
+[2019.06.18-10.08.44:758][674]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BigHouseCorner.obj)
+[2019.06.18-10.08.44:769][674]LogFbx: Loading FBX Scene from ../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BigHouseCorner.obj
+[2019.06.18-10.08.44:774][674]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.18-10.08.46:474][674]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.18-10.08.46:504][674]LogFbx: Display: Triangulating static mesh pCube1
+[2019.06.18-10.08.46:525][674]LogStaticMesh: Building static mesh BigHouseCorner...
+[2019.06.18-10.08.46:529][674]LogStaticMesh: Built static mesh [0.00s] /Game/Objects/BigHouseCorner.BigHouseCorner
+[2019.06.18-10.08.46:530][674]LogStaticMesh: Warning: BigHouseCorner has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.06.18-10.08.46:530][674]LogStaticMesh: Warning: BigHouseCorner has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.06.18-10.08.46:550][674]FBXImport: Warning: BigHouseCorner has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.06.18-10.08.46:550][674]FBXImport: Warning: BigHouseCorner has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.06.18-10.08.50:591][908]LogSlate: Window 'Message Log' being destroyed
+[2019.06.18-10.08.50:596][908]LogSlate: Window 'Message Log' being destroyed
+[2019.06.18-10.08.58:665][373]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-10.08.58:870][384]LogActorFactory: Actor Factory created BigHouseCorner
+[2019.06.18-10.09.00:868][502]LogActorFactory: Actor Factory created BigHouseCorner
+[2019.06.18-10.09.18:256][517]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.06.18-10.09.28:265][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigHouseCorner)
+[2019.06.18-10.09.46:003][153]Cmd: TRANSACTION UNDO
+[2019.06.18-10.09.46:003][153]LogEditorTransaction: Undo Clicking on Actors
+[2019.06.18-10.09.46:383][171]Cmd: TRANSACTION UNDO
+[2019.06.18-10.09.46:383][171]LogEditorTransaction: Undo Clicking on Actors
+[2019.06.18-10.09.46:794][190]Cmd: TRANSACTION UNDO
+[2019.06.18-10.09.46:794][190]LogEditorTransaction: Undo Move Actors
+[2019.06.18-10.09.50:461][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigHouseCorner)
+[2019.06.18-10.09.50:770][423]Cmd: DELETE
+[2019.06.18-10.09.50:770][423]Cmd: ACTOR DELETE
+[2019.06.18-10.09.50:812][423]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.18-10.09.50:850][423]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.06.18-10.09.50:850][423]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2019.06.18-10.09.51:968][482]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-10.09.54:073][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.06.18-10.09.55:911][599]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.18-10.09.56:026][599]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2019.06.18-10.10.21:464][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.06.18-10.10.23:935][718]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/WhiteBlockStreet_Auto39D1C11DF4F502D4E2BCEFDA20B49AF3F.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/Autosaves/Game/WhiteBlockStreet_Auto3.umap'
+[2019.06.18-10.10.23:950][718]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/WhiteBlockStreet' took 2.523
+[2019.06.18-10.10.23:950][718]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.523
+[2019.06.18-10.11.14:345][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-10.11.15:836][474]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BigHouseCorner.obj)
+[2019.06.18-10.11.15:846][474]LogFbx: Loading FBX Scene from ../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BigHouseCorner.obj
+[2019.06.18-10.11.15:851][474]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.18-10.11.17:501][474]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.18-10.11.17:536][474]LogFbx: Display: Triangulating static mesh pCube1
+[2019.06.18-10.11.17:552][474]LogStaticMesh: Building static mesh BigHouseCorner...
+[2019.06.18-10.11.17:556][474]LogStaticMesh: Built static mesh [0.01s] /Game/Objects/BigHouseCorner.BigHouseCorner
+[2019.06.18-10.11.17:558][474]LogStaticMesh: Warning: BigHouseCorner has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.06.18-10.11.17:558][474]LogStaticMesh: Warning: BigHouseCorner has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.06.18-10.11.17:574][474]FBXImport: Warning: BigHouseCorner has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.06.18-10.11.17:574][474]FBXImport: Warning: BigHouseCorner has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.06.18-10.11.22:343][752]LogSlate: Window 'Message Log' being destroyed
+[2019.06.18-10.11.22:348][752]LogSlate: Window 'Message Log' being destroyed
+[2019.06.18-10.11.24:166][856]LogActorFactory: Actor Factory created BigHouseCorner
+[2019.06.18-10.11.25:714][947]LogActorFactory: Actor Factory created BigHouseCorner
+[2019.06.18-10.11.41:433][867]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MailBoxTop4)
+[2019.06.18-10.17.09:551][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-10.17.12:209][697]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BigHouseMiddleBottom.obj)
+[2019.06.18-10.17.12:223][697]LogFbx: Loading FBX Scene from ../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BigHouseMiddleBottom.obj
+[2019.06.18-10.17.12:227][697]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.18-10.17.13:246][697]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.18-10.17.13:306][697]LogFbx: Display: Triangulating static mesh pCube1
+[2019.06.18-10.17.13:316][697]LogStaticMesh: Building static mesh BigHouseMiddleBottom...
+[2019.06.18-10.17.13:319][697]LogStaticMesh: Built static mesh [0.00s] /Game/Objects/BigHouseMiddleBottom.BigHouseMiddleBottom
+[2019.06.18-10.17.13:319][697]LogStaticMesh: Warning: BigHouseMiddleBottom has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.06.18-10.17.13:320][697]LogStaticMesh: Warning: BigHouseMiddleBottom has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.06.18-10.17.13:337][697]FBXImport: Warning: BigHouseMiddleBottom has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.06.18-10.17.13:338][697]FBXImport: Warning: BigHouseMiddleBottom has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.06.18-10.17.23:265][284]LogSlate: Window 'Message Log' being destroyed
+[2019.06.18-10.17.23:271][284]LogSlate: Window 'Message Log' being destroyed
+[2019.06.18-10.17.26:457][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-10.17.26:658][475]LogActorFactory: Actor Factory created BigHouseMiddleBottom
+[2019.06.18-10.17.27:842][544]LogActorFactory: Actor Factory created BigHouseMiddleBottom
+[2019.06.18-10.17.32:628][811]Cmd: DELETE
+[2019.06.18-10.17.32:628][811]Cmd: ACTOR DELETE
+[2019.06.18-10.17.32:668][811]LogEditorActor: Deleted Actor: Brush
+[2019.06.18-10.17.32:703][811]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2019.06.18-10.17.33:152][811]LogEditorActor: Deleted 1 Actors (0.524 secs)
+[2019.06.18-10.17.34:063][850]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigHouseMiddleBottom)
+[2019.06.18-10.17.59:983][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-10.18.10:715][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-10.20.18:229][110]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigHouseCorner)
+[2019.06.18-10.20.24:211][450]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-10.20.24:272][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.06.18-10.20.26:260][450]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/WhiteBlockStreet_Auto40F4C21AC403D0CC9138A39954E9CE510.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/Autosaves/Game/WhiteBlockStreet_Auto4.umap'
+[2019.06.18-10.20.26:269][450]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/WhiteBlockStreet' took 2.029
+[2019.06.18-10.20.26:269][450]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.029
+[2019.06.18-10.20.26:272][450]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Objects/BigHouseCorner] ([1] browsable assets)...
+[2019.06.18-10.20.26:291][450]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Objects/BigHouseCorner.BigHouseCorner]
+[2019.06.18-10.20.26:292][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/Objects/BigHouseCorner]
+[2019.06.18-10.20.26:323][450]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/BigHouseCorner_Auto43912637C47F9C1193C1C0989EA1F3B5C.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/Autosaves/Game/Objects/BigHouseCorner_Auto4.uasset'
+[2019.06.18-10.20.26:325][450]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Objects/BigHouseMiddleBottom] ([1] browsable assets)...
+[2019.06.18-10.20.26:343][450]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Objects/BigHouseMiddleBottom.BigHouseMiddleBottom]
+[2019.06.18-10.20.26:343][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/Objects/BigHouseMiddleBottom]
+[2019.06.18-10.20.26:368][450]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/BigHouseMiddleBottom_Auto4F385F8004DCC0EB4B5FAD6B5B9D1989E.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/Autosaves/Game/Objects/BigHouseMiddleBottom_Auto4.uasset'
+[2019.06.18-10.20.26:369][450]LogFileHelpers: Auto-saving content packages took 0.097
+[2019.06.18-11.01.32:444][222]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigHouseCorner)
+[2019.06.18-11.01.33:563][281]Cmd: DELETE
+[2019.06.18-11.01.33:563][281]Cmd: ACTOR DELETE
+[2019.06.18-11.01.33:630][281]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.18-11.01.33:687][281]LogUObjectHash: Compacting FUObjectHashTables data took   6.58ms
+[2019.06.18-11.01.33:688][281]LogEditorActor: Deleted 1 Actors (0.124 secs)
+[2019.06.18-11.01.34:166][309]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigHouseMiddleBottom)
+[2019.06.18-11.01.34:254][310]Cmd: DELETE
+[2019.06.18-11.01.34:255][310]Cmd: ACTOR DELETE
+[2019.06.18-11.01.34:290][310]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.18-11.01.34:324][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.06.18-11.01.34:324][310]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2019.06.18-11.01.53:181][428]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MailBoxTop4)
+[2019.06.18-11.01.56:249][602]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.06.18-11.02.06:488][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-11.02.06:633][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.06.18-11.02.08:517][203]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/WhiteBlockStreetF5C6376247430C61D987F28D14D4CD41.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/WhiteBlockStreet.umap'
+[2019.06.18-11.02.08:720][203]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/WhiteBlockStreet_BuiltDataA22FE4AF482E6423BFC157B07A8791A8.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/WhiteBlockStreet_BuiltData.uasset'
+[2019.06.18-11.02.10:246][289]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2019.06.18-11.02.18:381][289]LogSlate: Window 'Save Content' being destroyed
+[2019.06.18-11.02.18:433][289]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/BigHouseCorner4E2FCFD442CC21CB65916AA59AB38B4B.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Objects/BigHouseCorner.uasset'
+[2019.06.18-11.02.18:463][289]LogSavePackage: Moving '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Saved/BigHouseMiddleBottomFD0CDE3E476853E71C2FCFAC9643D644.tmp' to '../../../../../../Users/Whitt/Documents/GitHub/AssetPipeline/BuildCItyBlockAssignment/BuildCityBlock/Content/Objects/BigHouseMiddleBottom.uasset'
+[2019.06.18-11.02.18:571][289]LogSlate: Window 'BuildCityBlock - Unreal Editor' being destroyed
+[2019.06.18-11.02.18:927][290]Cmd: QUIT_EDITOR
+[2019.06.18-11.02.18:953][290]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.18-11.02.19:009][290]LogExit: Preparing to exit.
+[2019.06.18-11.02.19:395][290]LogExit: Editor shut down
+[2019.06.18-11.02.19:397][290]LogExit: Transaction tracking system shut down
+[2019.06.18-11.02.19:774][290]LogExit: Object subsystem successfully closed.
+[2019.06.18-11.02.19:807][290]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.06.18-11.02.19:819][290]LogD3D11RHI: Shutdown
+[2019.06.18-11.02.19:820][290]LogD3D11RHI: CleanupD3DDevice
+[2019.06.18-11.02.19:824][290]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.06.18-11.02.19:824][290]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.06.18-11.02.19:824][290]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.06.18-11.02.19:824][290]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.06.18-11.02.19:824][290]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.06.18-11.02.19:824][290]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.06.18-11.02.20:054][290]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.06.18-11.02.20:091][290]LogModuleManager: Shutting down and abandoning module MeshBuilder (646)
+[2019.06.18-11.02.20:091][290]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (644)
+[2019.06.18-11.02.20:091][290]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2019.06.18-11.02.20:091][290]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2019.06.18-11.02.20:095][290]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2019.06.18-11.02.20:095][290]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2019.06.18-11.02.20:095][290]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2019.06.18-11.02.20:096][290]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (632)
+[2019.06.18-11.02.20:096][290]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.06.18-11.02.20:096][290]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.06.18-11.02.20:096][290]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.06.18-11.02.20:096][290]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.06.18-11.02.20:096][290]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.06.18-11.02.20:096][290]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.06.18-11.02.20:096][290]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.06.18-11.02.20:096][290]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.06.18-11.02.20:096][290]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.06.18-11.02.20:096][290]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.06.18-11.02.20:096][290]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.06.18-11.02.20:096][290]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.06.18-11.02.20:096][290]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.06.18-11.02.20:096][290]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.06.18-11.02.20:096][290]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.06.18-11.02.20:096][290]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.06.18-11.02.20:096][290]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.06.18-11.02.20:096][290]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.06.18-11.02.20:097][290]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.06.18-11.02.20:097][290]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.06.18-11.02.20:097][290]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.06.18-11.02.20:097][290]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.06.18-11.02.20:097][290]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.06.18-11.02.20:097][290]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.06.18-11.02.20:097][290]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.06.18-11.02.20:097][290]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.06.18-11.02.20:097][290]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.06.18-11.02.20:097][290]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.06.18-11.02.20:097][290]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.06.18-11.02.20:097][290]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.06.18-11.02.20:097][290]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.06.18-11.02.20:097][290]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.06.18-11.02.20:097][290]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.06.18-11.02.20:097][290]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.06.18-11.02.20:097][290]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.06.18-11.02.20:097][290]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.06.18-11.02.20:097][290]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.06.18-11.02.20:097][290]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.06.18-11.02.20:097][290]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.06.18-11.02.20:097][290]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.06.18-11.02.20:097][290]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.06.18-11.02.20:097][290]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.06.18-11.02.20:097][290]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.06.18-11.02.20:097][290]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.06.18-11.02.20:097][290]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.06.18-11.02.20:097][290]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.06.18-11.02.20:097][290]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.06.18-11.02.20:098][290]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.06.18-11.02.20:098][290]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.06.18-11.02.20:098][290]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.06.18-11.02.20:098][290]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.06.18-11.02.20:098][290]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.06.18-11.02.20:098][290]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.06.18-11.02.20:098][290]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.06.18-11.02.20:709][290]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.06.18-11.02.20:709][290]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.06.18-11.02.20:709][290]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.06.18-11.02.20:709][290]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.06.18-11.02.20:709][290]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.06.18-11.02.20:709][290]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.06.18-11.02.20:709][290]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.06.18-11.02.20:709][290]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.06.18-11.02.20:709][290]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.06.18-11.02.20:709][290]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.06.18-11.02.20:709][290]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.06.18-11.02.20:709][290]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.06.18-11.02.20:709][290]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.06.18-11.02.20:709][290]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.06.18-11.02.20:709][290]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.06.18-11.02.20:709][290]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.06.18-11.02.20:710][290]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.06.18-11.02.20:710][290]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.06.18-11.02.20:710][290]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.06.18-11.02.20:710][290]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.06.18-11.02.20:710][290]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.06.18-11.02.20:710][290]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.06.18-11.02.20:710][290]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.06.18-11.02.20:754][290]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.06.18-11.02.20:754][290]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.06.18-11.02.20:754][290]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.06.18-11.02.20:754][290]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.06.18-11.02.20:754][290]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.06.18-11.02.20:755][290]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.06.18-11.02.20:755][290]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.06.18-11.02.20:755][290]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.06.18-11.02.20:755][290]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.06.18-11.02.20:755][290]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.06.18-11.02.20:755][290]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.06.18-11.02.20:756][290]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.06.18-11.02.20:757][290]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.06.18-11.02.20:757][290]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.06.18-11.02.20:757][290]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.06.18-11.02.20:757][290]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.06.18-11.02.20:757][290]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.06.18-11.02.20:757][290]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.06.18-11.02.20:757][290]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.06.18-11.02.20:757][290]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.06.18-11.02.20:757][290]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.06.18-11.02.20:757][290]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.06.18-11.02.20:757][290]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.06.18-11.02.20:757][290]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.06.18-11.02.20:757][290]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.06.18-11.02.20:757][290]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.06.18-11.02.20:757][290]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.06.18-11.02.20:757][290]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.06.18-11.02.20:757][290]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.06.18-11.02.20:757][290]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.06.18-11.02.20:757][290]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.06.18-11.02.20:757][290]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.06.18-11.02.20:757][290]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.06.18-11.02.20:757][290]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.06.18-11.02.20:757][290]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.06.18-11.02.20:764][290]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.06.18-11.02.20:792][290]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.06.18-11.02.20:793][290]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.06.18-11.02.20:793][290]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.06.18-11.02.20:793][290]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.06.18-11.02.20:793][290]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.06.18-11.02.20:793][290]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.06.18-11.02.20:793][290]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.06.18-11.02.20:793][290]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.06.18-11.02.20:793][290]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.06.18-11.02.20:793][290]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.06.18-11.02.20:793][290]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.06.18-11.02.20:793][290]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.06.18-11.02.20:793][290]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.06.18-11.02.20:793][290]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.06.18-11.02.20:793][290]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.06.18-11.02.20:793][290]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.06.18-11.02.20:793][290]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.06.18-11.02.20:793][290]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.06.18-11.02.20:793][290]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.06.18-11.02.20:793][290]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.06.18-11.02.20:793][290]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.06.18-11.02.20:793][290]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.06.18-11.02.20:793][290]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.06.18-11.02.20:793][290]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.06.18-11.02.20:793][290]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.06.18-11.02.20:793][290]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.06.18-11.02.20:793][290]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.06.18-11.02.20:793][290]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.06.18-11.02.20:793][290]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.06.18-11.02.20:793][290]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.06.18-11.02.20:793][290]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.06.18-11.02.20:793][290]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.06.18-11.02.20:794][290]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.06.18-11.02.20:794][290]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.06.18-11.02.20:794][290]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.06.18-11.02.20:794][290]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.06.18-11.02.20:794][290]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.06.18-11.02.20:794][290]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.06.18-11.02.20:794][290]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.06.18-11.02.20:794][290]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.06.18-11.02.20:794][290]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.06.18-11.02.20:794][290]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.06.18-11.02.20:794][290]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.06.18-11.02.20:794][290]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.06.18-11.02.20:794][290]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.06.18-11.02.20:794][290]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.06.18-11.02.20:794][290]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.06.18-11.02.20:794][290]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.06.18-11.02.20:794][290]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.06.18-11.02.20:794][290]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.06.18-11.02.20:794][290]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.06.18-11.02.20:795][290]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.06.18-11.02.20:795][290]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.06.18-11.02.20:795][290]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.06.18-11.02.20:795][290]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.06.18-11.02.20:795][290]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.06.18-11.02.20:795][290]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.06.18-11.02.20:795][290]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.06.18-11.02.20:795][290]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.06.18-11.02.20:795][290]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.06.18-11.02.20:795][290]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.06.18-11.02.20:795][290]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.06.18-11.02.20:896][290]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.06.18-11.02.20:997][290]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.06.18-11.02.20:997][290]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.06.18-11.02.20:997][290]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.06.18-11.02.20:997][290]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.06.18-11.02.20:997][290]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.06.18-11.02.20:997][290]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.06.18-11.02.20:998][290]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.06.18-11.02.20:998][290]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.06.18-11.02.20:998][290]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.06.18-11.02.20:998][290]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.06.18-11.02.20:998][290]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.06.18-11.02.20:998][290]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.06.18-11.02.20:998][290]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.06.18-11.02.20:998][290]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.06.18-11.02.21:001][290]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.06.18-11.02.21:001][290]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.06.18-11.02.21:001][290]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.06.18-11.02.21:002][290]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.06.18-11.02.21:002][290]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.06.18-11.02.21:006][290]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.06.18-11.02.21:006][290]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.06.18-11.02.21:006][290]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.06.18-11.02.21:007][290]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.06.18-11.02.21:007][290]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.06.18-11.02.21:007][290]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.06.18-11.02.21:007][290]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.06.18-11.02.21:007][290]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.06.18-11.02.21:007][290]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.06.18-11.02.21:007][290]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.06.18-11.02.21:007][290]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.06.18-11.02.21:007][290]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.06.18-11.02.21:007][290]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.06.18-11.02.21:007][290]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.06.18-11.02.21:007][290]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.06.18-11.02.21:007][290]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.06.18-11.02.21:007][290]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.06.18-11.02.21:007][290]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.06.18-11.02.21:007][290]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.06.18-11.02.21:007][290]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.06.18-11.02.21:007][290]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.06.18-11.02.21:007][290]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.06.18-11.02.21:007][290]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.06.18-11.02.21:007][290]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.06.18-11.02.21:007][290]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.06.18-11.02.21:007][290]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.06.18-11.02.21:008][290]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.06.18-11.02.21:013][290]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.06.18-11.02.21:013][290]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.06.18-11.02.21:013][290]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.06.18-11.02.21:013][290]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.06.18-11.02.21:013][290]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.06.18-11.02.21:013][290]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.06.18-11.02.21:013][290]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.06.18-11.02.21:013][290]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.06.18-11.02.21:013][290]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.06.18-11.02.21:013][290]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.06.18-11.02.21:013][290]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.06.18-11.02.21:013][290]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.06.18-11.02.21:013][290]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.06.18-11.02.21:013][290]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.06.18-11.02.21:013][290]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.06.18-11.02.21:014][290]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.06.18-11.02.21:034][290]LogDerivedDataCache: Shutdown
+[2019.06.18-11.02.21:034][290]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.06.18-11.02.21:034][290]LogXGEController: Cleaning working directory: C:/Users/Whitt/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.06.18-11.02.21:034][290]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.06.18-11.02.21:034][290]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.06.18-11.02.21:034][290]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.06.18-11.02.21:035][290]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.06.18-11.02.21:035][290]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.06.18-11.02.21:035][290]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.06.18-11.02.21:035][290]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.06.18-11.02.21:035][290]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.06.18-11.02.21:035][290]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.06.18-11.02.21:035][290]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.06.18-11.02.21:035][290]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.06.18-11.02.21:035][290]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.06.18-11.02.21:035][290]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.06.18-11.02.21:035][290]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.06.18-11.02.21:035][290]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.06.18-11.02.21:035][290]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.06.18-11.02.21:035][290]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.06.18-11.02.21:050][290]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.06.18-11.02.21:050][290]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.06.18-11.02.21:050][290]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.06.18-11.02.21:050][290]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.06.18-11.02.21:050][290]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.06.18-11.02.21:057][290]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.06.18-11.02.21:057][290]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.06.18-11.02.21:061][290]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.06.18-11.02.21:061][290]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.06.18-11.02.21:110][290]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.06.18-11.02.21:110][290]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.06.18-11.02.21:110][290]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.06.18-11.02.21:110][290]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.06.18-11.02.21:110][290]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.06.18-11.02.21:110][290]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.06.18-11.02.21:110][290]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.06.18-11.02.21:111][290]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.06.18-11.02.21:111][290]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.06.18-11.02.21:111][290]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.06.18-11.02.21:111][290]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.06.18-11.02.21:111][290]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.06.18-11.02.21:112][290]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.06.18-11.02.21:112][290]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.06.18-11.02.21:112][290]LogHMD: Freeing OpenVRDLLHandle.
+[2019.06.18-11.02.21:112][290]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.06.18-11.02.21:112][290]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.06.18-11.02.21:112][290]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.06.18-11.02.21:112][290]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.06.18-11.02.21:112][290]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.06.18-11.02.21:114][290]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.06.18-11.02.21:114][290]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.06.18-11.02.21:144][290]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.06.18-11.02.21:144][290]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.06.18-11.02.21:145][290]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B749E89A5-469F-12C6-7795-79B024CF560E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.1-6063286%2B%2B%2BUE4%2BRelease-4.22&UserID=cdcc5cd64b76fe948488fbb2d655a606%7Cb72e3dfdcbe947afb5076f0a5070b119%7Cf92049f4-839a-437a-b1c2-217af6a4942b&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.06.18-11.02.21:158][290]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.06.18-11.02.21:161][290]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.06.18-11.02.21:162][290]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.06.18-11.02.21:170][290]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.06.18-11.02.21:171][290]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.06.18-11.02.21:171][290]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.06.18-11.02.21:171][290]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.06.18-11.02.21:172][290]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.06.18-11.02.21:172][290]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.06.18-11.02.21:172][290]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.06.18-11.02.21:172][290]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.06.18-11.02.21:172][290]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.06.18-11.02.21:174][290]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.06.18-11.02.21:174][290]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.06.18-11.02.21:174][290]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.06.18-11.02.21:174][290]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.06.18-11.02.21:174][290]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.06.18-11.02.21:174][290]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.06.18-11.02.21:174][290]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.06.18-11.02.21:174][290]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.06.18-11.02.21:174][290]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.06.18-11.02.21:174][290]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.06.18-11.02.21:174][290]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.06.18-11.02.21:174][290]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.06.18-11.02.21:187][290]LogExit: Exiting.
+[2019.06.18-11.02.21:215][290]Log file closed, 06/18/19 05:02:21
